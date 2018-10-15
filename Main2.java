@@ -7,16 +7,14 @@ import java.util.Scanner;
  */
 public class Main2 {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
         String s = input.nextLine();
         String[] ssplit = s.split("\\s+");
         for (int i = 0; i < ssplit.length; i++) {
             System.out.println(ssplit[i]);
-            System.out.println("hello");
-            System.out.println("dsjfjsdfiewfwe");
-
-            System.out.println("切换到分支上发生了改变 ");
             System.out.println("再次提交再再提交");
+            System.out.println("修改了");
 
         }
     }
