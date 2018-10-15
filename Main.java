@@ -16,7 +16,7 @@ public class Main {
             System.out.println("dsjfjsdfiewfwe");
             System.out.println("切换到分支上发生了改变");
             System.out.println("再次提交");
-            System.out.println("测试checkout  ");
+
         }
     }
 }
