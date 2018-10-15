@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @Date: 2018/10/14 19:37
  * @Description:
  */
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String s = input.nextLine();
